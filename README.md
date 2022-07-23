@@ -9,6 +9,7 @@
 
   <p align="center">
     A chatbot for my college that could answer anything asked inside the scope of college and provide corresponding link!
+    <p align="center"><b>Scripts are made private due to college restrictions</b></p>
   
  <br>
    
