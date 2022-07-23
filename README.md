@@ -53,7 +53,7 @@ pip install -r actions/requirements.txt
 
 1. Clone Repository
 ```sh
-git clone https://github.com/gd2003gamingchamp/BIT-ChatBot.git
+git clone https://github.com/gd2003gamingchamp/BIT-Assisstant-pvt.git
 ```
 2. Initiate rasa inside the repo
 ```sh
