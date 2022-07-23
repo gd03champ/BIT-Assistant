@@ -1,7 +1,7 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/gd2003gamingchamp/BIT-ChatBot">
+  <a href="https://github.com/gd2003gamingchamp/BIT-Assistant-pvt">
     <img src="assets/bit.png" alt="Logo" width="80" height="80">
   </a>
 
